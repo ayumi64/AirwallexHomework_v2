@@ -73,5 +73,5 @@ class commonMethod():
         wb.save(path)
 
 if __name__ == '__main__':
-    print(commonMethod().Auth2())
+    print(commonMethod().Auth())
 

@@ -1,7 +1,0 @@
-pytest
-allure-pytest
-xlrd
-xlutils
-requests
-string
-json
